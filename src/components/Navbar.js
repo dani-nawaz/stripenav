@@ -45,7 +45,8 @@ const Wrapper = styled.nav`
       display: grid;
       grid-template-columns: 1fr 1fr 1fr;
       text-align: center;
-      height: 100%;
+      height: 99%;
+      margin-top: 1rem;
       display: grid;
       align-items: center;
     }
